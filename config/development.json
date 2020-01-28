@@ -1,0 +1,7 @@
+{
+    "name": "My Express App - Development",
+    "db": "mongodb://localhost:27017/node_basics",
+    "mail":{
+        "host": "Development-mail-sever"
+    }
+}
